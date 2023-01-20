@@ -40,3 +40,15 @@ align= "left, center, right, justify">
 ```
 <!-- Inhalt -->
 ```
+# Fettschrift
+```
+<p>Ein Textabsatz mit <strong>einem Teil in Fettschrift</strong>.</p>
+```
+# Kursivschrift
+```
+<p>Ein Textabsatz mit <i>einem Teil in kursiver Schrift</i>.</p>
+```
+# Horizontale Linie
+```
+<p>Ein Textabsatz mit einer horizontalen Linie und zwar hier.</p><hr>
+```
