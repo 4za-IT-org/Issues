@@ -24,7 +24,7 @@
 ![image](https://user-images.githubusercontent.com/122775496/215483506-eed7b332-9bd8-475b-aa13-3105f24b27d0.png)
 #### Server neu starten
 # Active Directory hinzufügen
-Server-Manager --> "Verwalten" --> "Rollen und Features hinzufügen"
+Server-Manager --> "Verwalten" --> "Rollen und Features hinzufügen"   
 ![image](https://user-images.githubusercontent.com/122775496/215485411-840e4539-3655-4821-a2e9-7917eb0f277e.png)  
 #### + Features hinzufügen
 ![image](https://user-images.githubusercontent.com/122775496/215485700-9cc3c7f2-df00-425a-9af4-80f3a3328caf.png)  
