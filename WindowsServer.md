@@ -3,6 +3,7 @@
 ![image](https://user-images.githubusercontent.com/122775496/215476015-b136bbe3-a8bc-40b5-b05b-a96221f4819a.png)
 # Server Namen ändern --> "Local Server"
 ![image](https://user-images.githubusercontent.com/122775496/215476463-956dd2c1-a99d-4faf-b38f-7678d70967b3.png)
+![image](https://user-images.githubusercontent.com/122775496/215480123-6174bf0c-63c2-42c9-ab66-32c009546cf4.png)
 # Chipsatz Treiber installieren 
 ![image](https://user-images.githubusercontent.com/122775496/215477268-1043708d-700c-4096-8c6b-2ae37ca540db.png)
 # Netzwerktreiber installieren
@@ -11,3 +12,9 @@
 ![image](https://user-images.githubusercontent.com/122775496/215477898-5b78e183-380a-48fd-8e3c-ed13b1b89664.png)  
 ![image](https://user-images.githubusercontent.com/122775496/215478075-00cf9219-cf47-4608-a1d2-01f634d6d2a9.png)  
 ![image](https://user-images.githubusercontent.com/122775496/215478260-92a2e84d-a7cb-450e-8551-903613535120.png)  
+# IP Adresse etc. zuweisen
+![image](https://user-images.githubusercontent.com/122775496/215480414-8959afd9-633f-4199-a7fd-4eed07a352c2.png)  
+![image](https://user-images.githubusercontent.com/122775496/215480661-ce25ef03-4284-43f3-8f8d-bf087ae9fdbe.png)  
+![image](https://user-images.githubusercontent.com/122775496/215480832-da5db6a2-7dff-4f29-be90-3b2743083af0.png)
+
+
