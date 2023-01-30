@@ -15,6 +15,15 @@
 # IP Adresse etc. zuweisen
 ![image](https://user-images.githubusercontent.com/122775496/215480414-8959afd9-633f-4199-a7fd-4eed07a352c2.png)  
 ![image](https://user-images.githubusercontent.com/122775496/215480661-ce25ef03-4284-43f3-8f8d-bf087ae9fdbe.png)  
-![image](https://user-images.githubusercontent.com/122775496/215480832-da5db6a2-7dff-4f29-be90-3b2743083af0.png)
+![image](https://user-images.githubusercontent.com/122775496/215480832-da5db6a2-7dff-4f29-be90-3b2743083af0.png)  
+# Installation Active Directory
+#### "Dieser PC" --> "Eigenschaften" --> "erweiterte Systemeinstellungen" 
+![image](https://user-images.githubusercontent.com/122775496/215482699-5acd5b68-2afa-4e94-b7c3-da1a0dfceb0c.png)  
+![image](https://user-images.githubusercontent.com/122775496/215483181-d07751c4-9757-4218-943c-3ee08d763e88.png)
+#### DNS Name des Servers
+![image](https://user-images.githubusercontent.com/122775496/215483506-eed7b332-9bd8-475b-aa13-3105f24b27d0.png)
+#### Server neu starten
+# Active Directory hinzufügen
+Server-Manager --> "Verwalten" --> "Rollen und Features hinzufügen"
 
 
